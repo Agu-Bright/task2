@@ -31,7 +31,6 @@
 
 <h3>UML diagrams (or links to view them)</h3>
 https://app.diagrams.net/#G17JFHIC1ulqoZVUTJ1Fliofg0GiR7N3dD
-<a href ="https://app.diagrams.net/#G17JFHIC1ulqoZVUTJ1Fliofg0GiR7N3dD" target="_blank">click to view</a>
 
 <h3> Technolgy used</h3>
 <ul>
