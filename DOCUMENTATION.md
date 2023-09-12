@@ -1,5 +1,5 @@
-6.  Documentation:
-    // Provide a documentation file (e.g., DOCUMENTATION.md in your GitHub repo) that outlines:
+Documentation:
+// Provide a documentation file (e.g., DOCUMENTATION.md in your GitHub repo) that outlines:
 
 // Standard formats for requests and responses for each endpoint.
 
