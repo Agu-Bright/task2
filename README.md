@@ -15,7 +15,7 @@ THE SOURCE CODE FOR THE API:
 THE UML DIAGRAM: https://app.diagrams.net/#G17JFHIC1ulqoZVUTJ1Fliofg0GiR7N3dD
 
 <div align="center">
-    <a href="https://app.diagrams.net/#G17JFHIC1ulqoZVUTJ1Fliofg0GiR7N3dD" target="_blank"><img src="./umldiagram.png" /> <h1 align="center">click to view the uml diagram</h1>
+    <a href="https://app.diagrams.net/#G17JFHIC1ulqoZVUTJ1Fliofg0GiR7N3dD" target="_blank"> click to view the uml diagram
 </a>
 </div>
 
