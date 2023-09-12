@@ -20,11 +20,12 @@
  "firstName": "Bright",
  "lastName": "Agu",
   "otherName": "Chidubem",
- "uniqueName": "bub_bryso",
+ "uniqueName": "bub_brysonn",
   "email": "brightagu2@gmail.com",
   "description": "I am a sotfware developet"
 }
 </code>
+<h3>Note that the uniqueName attribute is unique to each person </h3>
 
 <p>EXPECTED RESPONSE
 </p>
